@@ -7,11 +7,6 @@ const PRIVATE_KEY = '5dd9a0e559530ae3ef1d3b5d8bfa4b8805fc8785'
 
 import api from '../../service/api';
 
-import fothomemaranhao1 from '../../assets/homemaranha.jpg';
-import homemferro from '../../assets/homemferro.jpg';
-import hulk from '../../assets/hulk.png';
-import mulhermaravilha from '../../assets/mulhermaravilha.png';
-
 import styles from './styles'
 
 function Home(){
