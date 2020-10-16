@@ -2,8 +2,8 @@ import React, {useState, useEffect} from 'react';
 import { View, Text,  Image,  ScrollView } from 'react-native';
 import md5 from 'js-md5';
 
-const PUBLIC_KEY = '5ed4720157c3f19e76ec9c8e4cc88350'
-const PRIVATE_KEY = '5dd9a0e559530ae3ef1d3b5d8bfa4b8805fc8785'
+const PUBLIC_KEY = '5dfedfaddfad472dfa0d15fa7dfcdf3adffad19e76ec9c8e4cc88350'
+const PRIVATE_KEY = '5dd9a0edfadfa5fad5fad9ad5fa3dfa0ae3ef1d3b5d8bfa4b8805fc8785'
 
 import api from '../../service/api';
 
